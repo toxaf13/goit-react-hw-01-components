@@ -1,5 +1,3 @@
-import PropTypes from 'prop-types';
-
 export const App = ({children}) => {
   return (
     <div
